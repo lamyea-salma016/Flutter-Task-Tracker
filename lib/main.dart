@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'task_1.dart';
+import 'task_2.dart';
 import 'theme_color.dart';
 
 void main() {
@@ -15,10 +16,11 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        fontFamily: 'Poppins',
+        fontFamily: 'Roboto',
       ),
     
-      home: const Task_1(),
+     // home: const Task_1(),
+     home: const Task_2(),
     );
   }
 }
