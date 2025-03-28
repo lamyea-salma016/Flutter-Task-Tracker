@@ -8,6 +8,8 @@ import 'task_6.dart';
 import 'task_7.dart';
 import 'task_8.dart';
 import 'task_9.dart';
+import 'task_9.dart';
+import 'task_10.dart';
 import 'theme_color.dart';
 
 void main() {
@@ -34,7 +36,8 @@ class MyApp extends StatelessWidget {
     // home: const Task_6(),
     //  home: const Task_7(),
     // home: const Task_8(),
-    home: const Task_9(),
+    // home: const Task_9(),
+     home: const Task_10(),
     );
   }
 }
