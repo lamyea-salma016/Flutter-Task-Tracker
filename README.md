@@ -3,9 +3,9 @@
 ## About the Repository
 
 This repository is created as part of my Flutter development practice journey.  
-It contains solutions to tasks and problems given in our practice sheet by the faculty. Through this collection, I aim to improve my Flutter skills, understand different UI/UX components, and strengthen my mobile app development knowledge.
+It contains solutions to tasks and problems given in our practice sheet by my course Instructor. Through this collection, I aim to improve my Flutter skills, understand different UI/UX components, and strengthen my mobile app development knowledge.
 
-Each problem includes its statement and the corresponding solution in the form of screenshots or GIFs, for clear understanding and progress tracking.
+Each problem includes its statement and the corresponding solution in the form of screenshots  for clear understanding and progress tracking.
 
 ## Author
 
